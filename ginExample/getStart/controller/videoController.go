@@ -1,8 +1,8 @@
 package controller
 
 import (
-	"back-end-notes/ginExample/getStart/ginExample/getStart/entity"
-	"back-end-notes/ginExample/getStart/ginExample/getStart/service"
+	"back-end-notes/ginExample/getStart/entity"
+	"back-end-notes/ginExample/getStart/service"
 	"github.com/gin-gonic/gin"
 )
 

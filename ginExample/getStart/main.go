@@ -1,8 +1,8 @@
 package main
 
 import (
-	"back-end-notes/ginExample/getStart/ginExample/getStart/controller"
-	"back-end-notes/ginExample/getStart/ginExample/getStart/service"
+	"back-end-notes/ginExample/getStart/controller"
+	"back-end-notes/ginExample/getStart/service"
 	"github.com/gin-gonic/gin"
 	"net/http"
 )

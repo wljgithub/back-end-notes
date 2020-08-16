@@ -1,6 +1,6 @@
 package service
 
-import "back-end-notes/ginExample/getStart/ginExample/getStart/entity"
+import "back-end-notes/ginExample/getStart/entity"
 
 type VideoService interface {
 	Save(video entity.Video) entity.Video
